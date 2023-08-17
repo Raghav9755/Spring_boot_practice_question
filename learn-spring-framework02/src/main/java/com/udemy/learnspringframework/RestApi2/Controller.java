@@ -36,8 +36,4 @@ public class Controller {
         );
 
     }
-    @GetMapping("/Details/Employee/empNo")
-    public int pattern(){
-        return pattern().gr;
-    }
 }
