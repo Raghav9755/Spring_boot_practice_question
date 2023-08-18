@@ -9,7 +9,6 @@ public class CurrencyServiceConfiguration {
     private String url;
     private String username;
     private String key;
-
     public String getUrl() {
         return url;
     }
