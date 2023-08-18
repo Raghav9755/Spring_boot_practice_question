@@ -1,0 +1,4 @@
+insert into course (id,EmployeeName,EmployeeSalary)
+values(3,'Rajat','49000')
+select* from course
+delete from course where id=3
